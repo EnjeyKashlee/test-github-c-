@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "UUIIAU!";
+    cout << "dito nakatira si jenel!";
     
     return 0;
 }
